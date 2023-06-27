@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To check the website (https://ramkalyangunimanikala.github.io/Flipkart-clone-master/)
+
 ## Available Scripts
 
 In the project directory, you can run:
